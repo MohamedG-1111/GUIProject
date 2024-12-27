@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"app2","l":"Admin"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"app2","l":"App2"},{"p":"com.raven.swing","l":"ImageAvatar"},{"p":"app2","l":"Login_Frame"},{"p":"app2","l":"Person"},{"p":"app2","l":"Register_Frame"},{"p":"app2","l":"screen"},{"p":"app2","l":"Student_c"},{"p":"app2","l":"Student_Frame"}];updateSearchResults();
